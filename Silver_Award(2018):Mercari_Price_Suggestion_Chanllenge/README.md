@@ -1,3 +1,4 @@
+<b>Won Silver Award.Ranked 97th of 2384 teams! </b> 
 Please check out final_report.pdf for a in-depth explanation of my approach to
 this competition.
 
