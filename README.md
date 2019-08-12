@@ -2,4 +2,4 @@
 The folder holds the script, data of the awards I won on Kaggle Competitions!
 
 ##### My Kaggle profile: https://www.kaggle.com/alluxia!   
-##### Current Rank: 1855/102,741! My goal is going top 100!
+##### Current Rank: 1105/114,621! My goal is going top 100!
